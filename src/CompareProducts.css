@@ -1,0 +1,39 @@
+.comparison-table {
+    margin: 20px;
+    overflow-x: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .comparison-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .comparison-table th,
+  .comparison-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+  }
+  
+  .comparison-table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .comparison-table td {
+    background-color: #f9f9f9;
+  }
+  
+  .comparison-table img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .comparison-table h3 {
+    margin-bottom: 20px;
+  }
+  
